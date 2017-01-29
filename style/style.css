@@ -1,5 +1,5 @@
 .header {
-	color: #FF9933;
+	color: #00FFFF;
 	font-size: 30px;
 	font-weight: bold;
 	font-family: monospace;
@@ -14,7 +14,7 @@
 	padding-left: 5px;
 	margin-top: 8px;
 	margin-bottom: 8px;
-	background: #ffb356;
+	background: #00FFFF;
 	font-family: "lucida sans unicode", "lucida grande", sans-serif;
 	font-size: 10px;
 }
@@ -35,7 +35,7 @@ body {
 	background: linear-gradient(90deg, #7d7e7d 0%, #0e0e0e 100%);
 }
 button {
-	background-color: #ffab23;
+	background-color: #00FFFF;
 	-moz-border-radius: 1px;
 	-webkit-border-radius: 10px;
 	border-radius: 6px;
